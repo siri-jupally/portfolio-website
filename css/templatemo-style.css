@@ -540,10 +540,18 @@ a#logo {
   margin: 0 auto 0;
   font-size: 64px;
 }
-@media(min-width:800px)
+
+@media(min-width:700px)
 {
  .school{
   width: 250px;
+ }
+  
+}
+@media(min-width:300px)amd(max-width:450px)
+{
+ .school{
+  width: 150px;
  }
   
 }
