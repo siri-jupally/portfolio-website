@@ -872,10 +872,10 @@ textarea.form-control {
   background-color: #fff;
   border-radius: 3px;
 }
-.filled-bar-3{
+.filled-bar-3 {
   position: absolute;
   z-index: 99;
-  width: 46%;
+  width: 47%;
   height: 6px;
   background-color: #fff;
   border-radius: 3px;
